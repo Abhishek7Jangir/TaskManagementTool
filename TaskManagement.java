@@ -3,7 +3,7 @@
 // //Allow user to create , update and delete task(completed)
 // //Organize tasks into catagories
 // //set task deadline and reminder
-// //Provide filtering and sorting options for tasks.
+// //Provide filtering and sorting options for tasks
 import java.io.*;
 import java.util.*;
 import java.util.Map;
